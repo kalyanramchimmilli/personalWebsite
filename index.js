@@ -1,0 +1,1 @@
+alert("this is a desktop website , incase if u are using in phone make sure click the desktop site option your phone");
