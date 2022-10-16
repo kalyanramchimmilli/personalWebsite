@@ -107,7 +107,7 @@ a{
     background-image: linear-gradient(to bottom, #11cdd4, #11999e);
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
-    border-radius: 8px;
+    border-radius: 0.5rem;
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     font-size: 1.2rem;
