@@ -44,12 +44,12 @@ hr{
 }
 .bottomcloud{
     position:absolute;
-    left:20rem;
+    left:15%;
      top: 26rem;
 }
 .topcloud{
     position:absolute;
-    right: 20rem;
+    right: 15%;
     top:5rem;
 }
 .top{
